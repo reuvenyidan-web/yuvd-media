@@ -73,8 +73,6 @@ a {
 }
 
 .logo {
-  max-height: 48px;
-  width: auto;
   width: 132px;
   height: auto;
 }
@@ -771,9 +769,7 @@ p {
   gap: 24px;
 }
 
-.footer.logo {
-  max-height: 48px;
-  width: auto;
+.footer-logo {
   width: 110px;
 }
 
@@ -846,8 +842,6 @@ p {
   }
 
   .logo {
-  max-height: 48px;
-  width: auto;
     width: 112px;
   }
 
